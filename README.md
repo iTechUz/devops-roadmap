@@ -13,7 +13,7 @@
 | First body part |    |        | Becoming Red Hat certified    |
 | Second line     |           | **strong**      | Choosing a Red Hat distribution            |
 | Third line      |          |              | Finding Professional Opportunities with Linux Today            |
-|-----------------+--------------+-----------------+----------------|
+|-------*-*------+-----**-**-----+-------**-**-------+-------*-*--------|
 | First body part |    |        | Understanding What Linux Is    |
 | Second line     |           | **strong**      | Exploring Linux History            |
 | Third line      |          |              | GNU transitions UNIX to freedom            |
