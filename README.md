@@ -72,3 +72,16 @@
  - [Arrow functions revisited](https://javascript.info/arrow-functions)
 
 </details>
+
+<details>
+<summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Linux</a>    
+</summary>
+
+### 🔰 1. Getting Started 1
+ - [Understanding Linux Desktop Technology 28]()
+ - [Using a Terminal window 63]()
+ - [Choosing Your Shell 65]()
+ - [Running Commands 66]()
+ - [Understanding command syntax 67]()
+</details>
