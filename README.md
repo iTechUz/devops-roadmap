@@ -78,7 +78,7 @@
 <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Linux</a>    
 </summary>
 
-### 🔰 1. Getting Started 
+### :blush: 1. Getting Started 
  - [Understanding Linux Desktop Technology 28]()
  - [Using a Terminal window 63]() 
  - [Choosing Your Shell 65]()
