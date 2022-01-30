@@ -78,7 +78,13 @@
 <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Linux</a>    
 </summary>
 
-### :blush: 1. Getting Started 
+### :blush:  Getting Started 
+<details>
+<summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Part II: Becoming a Linux Power User </a>    
+</summary>
+
+### Chapter 3: Using the Shell 61
  - [Understanding Linux Desktop Technology 28]()
  - [Using a Terminal window 63]() 
  - [Choosing Your Shell 65]()
@@ -98,26 +104,50 @@
  - [Exiting the shell 83]()
  - [Adding environment variables 87]()
  - [Getting Information about Commands 88]()
+ - 
+### Chapter 4: Moving Around the Filesystem 93
  - [Using brace expansion characters 101]()
  - [Listing Files and Directories 101]()
  - [Understanding File Permissions and Ownership 105]()
  - [Changing permissions with chmod (numbers) 106]()
  - [Changing file ownership 109]()
+  
+### Chapter 6: Managing Running Processes 131
  - [Listing Processes 132]()
  - [Listing processes with ps 132]()
  - [Killing and Renicing Processes140]()
  - [Killing processes with kill and killall 140]()
+</details>
+
+<details>
+<summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Part III: Becoming a Linux System Administrator 165 </a>    
+</summary>
+
+### Chapter 8: Learning System Administration 167
  - [Using Graphical Administration Tools 169]()
  - [Using the root User Account 174]()
  - [Exploring Administrative Commands, Configuration Files, and Log Files 178]()
  - [Administrative commands 178]()
+ - 
+### Chapter 9: Installing Linux 195
  - [Understanding Cloud-Based Installations 204]()
  - [Dual booting 208]()
  - [Installing Linux to run virtually 209]()
+
+### Chapter 11: Managing User Accounts 249
  - [Creating User Accounts 249]()
  - [Adding users with useradd 252]()
  - [Setting user defaults 255]()
  - [Setting permissions with Access Control Lists 262]()
+</details>
+
+<details>
+<summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Part IV: Becoming a Linux Server Administrator 305 </a>    
+</summary>
+
+### Chapter 13: Understanding Server Administration 307
  - [Starting with Server Administration 308]()
  - [Step 1: Install the server 308]()
  - [Step 2: Configure the server 310]()
@@ -128,22 +158,44 @@
  - [Starting the openssh-server service 317]()
  - [Using SSH client tools 318]()
  - [Using key-based (passwordless) authentication 324]()
+
+### Chapter 14: Administering Networking 339
  - [Configuring Networking for Desktops 340]()
+
+### Chapter 15: Starting and Stopping Services 369
  - [Stopping and Starting Services 387]()
  - [Stopping and starting SysVinit services 387]()
+
+### Chapter 16: Configuring a Print Server 403
  - [Printing with lp 419]()
  - [Listing status with lpstat -t 419]()
  - [Removing print jobs with lprm 419]()
  - [Configuring Print Servers 420]()
  - [Configuring a shared CUPS printer 420]()
+
+### Chapter 17: Configuring a Web Server 427
  - [Getting and Installing Your Web Server 428]()
+</details>
+
+<details>
+<summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Part VI: Engaging with Cloud Computing 691 </a>    
+</summary>
+
+### Chapter 26: Shifting to Clouds and Containers 693
  - [Starting and stopping containers 701]()
+
+### Chapter 27: Using Linux for Cloud Computing 709
  - [Overview of Linux and Cloud Computing 710]()
  - [Trying Basic Cloud Technology 713]()
  - [Setting Up a Small Cloud 714]()
  - [Creating virtual machines 720]()
  - [Managing virtual machines 724]()
+
+### Chapter 28: Deploying Linux to the Cloud 729
  - [Getting Linux to Run in a Cloud 729]()
  - [Using Amazon EC2 to Deploy Cloud Images 744]()
+</details>
+
   
 </details>
