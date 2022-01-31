@@ -92,7 +92,7 @@
 
       </summary>
 
-      ##### :innocent: Starting with Linux 3
+      ##### :smiley: Starting with Linux 3
 
       - [Understanding What Linux Is 4]()
       - [Understanding How Linux Differs from Other Operating Systems 6]()
@@ -115,9 +115,10 @@
 
     - <details>
       <summary>
-      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 2: Creating the Perfect Linux Desktop 27 </a>    
+      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 2 </a>    
       </summary>
 
+      ##### :smiley: Creating the Perfect Linux Desktop 27
       - [Understanding Linux Desktop Technology 28]()
       - [Starting with the Fedora GNOME Desktop Live image 30]()
       - [Using the GNOME 3 Desktop 31]()
@@ -139,14 +140,16 @@
 
   - <details>
     <summary>
-    <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Part II: Becoming a Linux Power User 59 </a>    
+    <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Part II </a>    
     </summary>
 
+    ### :blush: Becoming a Linux Power User 59
     - <details>
       <summary>
-      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 3: Using the Shell 61</a>    
+      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 3</a>    
       </summary>
 
+      ##### :smiley: Using the Shell 61
       - [About Shells and Terminal Windows 62]()
       - [Using the shell prompt 63]()
       - [Using a Terminal window 63]()
@@ -181,9 +184,10 @@
 
     - <details>
       <summary>
-      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 4: Moving Around the Filesystem 93</a>    
+      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 4</a>    
       </summary>
 
+      ##### :smiley: Moving Around the Filesystem 93
       - [Using Basic Filesystem Commands 96]()
       - [Using Metacharacters and Operators 98]()
       - [Using file-matching metacharacters 98]()
@@ -203,9 +207,10 @@
 
     - <details>
       <summary>
-      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 5: Working with Text Files 113</a>    
+      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 5</a>    
       </summary>
 
+      ##### :smiley: Working with Text Files 113
       - [Editing Files with vim and vi 113]()
       - [Starting with vi 115]()
       - [Skipping around in the file 119]()
@@ -223,9 +228,10 @@
 
     - <details>
       <summary>
-      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 6: Managing Running Processes 131</a>    
+      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 6</a>    
       </summary>
 
+      ##### :smiley: Managing Running Processes 131
       - [Understanding Processes 131]()
       - [Listing Processes 132]()
       - [Listing processes with ps 132]()
@@ -245,9 +251,10 @@
 
     - <details>
       <summary>
-      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 7: Writing Simple Shell Scripts 147</a>    
+      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 7</a>    
       </summary>
 
+      ##### :smiley: Writing Simple Shell Scripts 147
       - [Understanding Shell Scripts 147]()
       - [Executing and debugging shell scripts 148]()
       - [Understanding shell variables 149]()
@@ -263,14 +270,16 @@
 
   - <details>
     <summary>
-    <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Part III: Becoming a Linux System Administrator 165</a>    
+    <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Part III</a>    
     </summary>
 
+    ### :blush: Becoming a Linux System Administrator 165
     - <details>
       <summary>
-      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 8: Learning System Administration 167</a>    
+      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 8</a>    
       </summary>
 
+      ##### :smiley: Learning System Administration 167
       - [Understanding System Administration 167]()
       - [Using Graphical Administration Tools 169]()
       - [Using the root User Account 174]()
@@ -289,9 +298,10 @@
 
     - <details>
       <summary>
-      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 9: Installing Linux 195</a>    
+      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 9</a>    
       </summary>
 
+      ##### :smiley: Installing Linux 195
       - [Choosing a Computer 196]()
       - [Installing Fedora from Live Media 198]()
       - [Installing Red Hat Enterprise Linux from Installation Media 201]()
@@ -312,9 +322,10 @@
 
     - <details>
       <summary>
-      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 10: Getting and Managing Software 221</a>    
+      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 10</a>    
       </summary>
 
+      ##### :smiley: Getting and Managing Software 221
       - [Managing Software on the Desktop 221]()
       - [Going Beyond the Software Window 223]()
       - [Understanding Linux RPM and DEB Software Packaging 224]()
@@ -337,9 +348,10 @@
 
     - <details>
       <summary>
-      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 11: Managing User Accounts 249</a>    
+      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 11</a>    
       </summary>
 
+      ##### :smiley: Managing User Accounts 249
       - [Creating User Accounts 249]()
       - [Adding users with useradd 252]()
       - [Setting user defaults 255]()
@@ -358,9 +370,10 @@
 
     - <details>
       <summary>
-      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 12: Managing Disks and Filesystems 273</a>    
+      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 12</a>    
       </summary>
 
+      ##### :smiley: Managing Disks and Filesystems 273
       - [Understanding Disk Storage 273]()
       - [Partitioning Hard Disks 275]()
       - [Understanding partition tables 275]()
@@ -390,29 +403,34 @@
 
   - <details>
     <summary>
-    <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Part IV: Becoming a Linux Server Administrator 305</a>    
+    <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Part IV</a>    
     </summary>
 
+    ### :blush: Becoming a Linux Server Administrator 305
     </details>
 
   - <details>
     <summary>
-    <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Part V: Learning Linux Security Techniques 563</a>    
+    <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Part V</a>    
     </summary>
 
+    ### :blush: Learning Linux Security Techniques 563
     </details>
 
   - <details>
     <summary>
-    <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Part VI: Engaging with Cloud Computing 691</a>    
+    <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Part VI</a>    
     </summary>
 
+    ### :blush: Engaging with Cloud Computing 691
     </details>
 
   - <details>
     <summary>
-    <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Part VII: Appendixes 785</a>    
+    <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Part VII</a>    
     </summary>
+
+    ### :blush: Appendixes 785
 
     </details>
 
