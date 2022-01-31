@@ -78,124 +78,310 @@
 <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Linux</a>    
 </summary>
 
-### :blush:  Getting Started 
-<details>
-<summary>
-<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Part II: Becoming a Linux Power User </a>    
-</summary>
+  - <details>
+    <summary>
+    <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Part I: Getting Started 1 </a>    
+    </summary>
 
-### Chapter 3: Using the Shell 61
- - [Understanding Linux Desktop Technology 28]()
- - [Using a Terminal window 63]() 
- - [Choosing Your Shell 65]()
- - [Running Commands 66]()
- - [Understanding command syntax 67]()
- - [Locating commands 70]()
- - [Recalling Commands Using Command History 72]()
- - [Command-line editing 73]()
- - [Command-line completion 75]()
- - [Command-line recall 76]()
- - [Connecting and Expanding Commands 78]()
- - [Piping between commands 78]()
- - [Sequential commands 79]()
- - [Background commands 79]()
- - [Using Shell Variables 81]()
- - [Creating and using aliases 81]()
- - [Exiting the shell 83]()
- - [Adding environment variables 87]()
- - [Getting Information about Commands 88]()
- - 
-### Chapter 4: Moving Around the Filesystem 93
- - [Using brace expansion characters 101]()
- - [Listing Files and Directories 101]()
- - [Understanding File Permissions and Ownership 105]()
- - [Changing permissions with chmod (numbers) 106]()
- - [Changing file ownership 109]()
+    - <details>
+      <summary>
+      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 1: Starting with Linux 3 </a>    
+      </summary>
+
+      - [Understanding What Linux Is 4]()
+      - [Understanding How Linux Differs from Other Operating Systems 6]()
+      - [Exploring Linux History 7]()
+      - [Free-flowing UNIX culture at Bell Labs 7]()
+      - [Commercial UNIX 9]()
+      - [GNU transitions UNIX to freedom 11]()
+      - [BSD loses some steam 12]()
+      - [Linus builds the missing piece 13]()
+      - [OSI open source definition 14]()
+      - [Understanding How Linux Distributions Emerged 16]()
+      - [Choosing a Red Hat distribution 16]()
+      - [Choosing Ubuntu or another Debian distribution 19]()
+      - [Finding Professional Opportunities with Linux Today 19]()
+      - [Understanding how companies make money with Linux 20]()
+      - [Becoming Red Hat certified 21]()
+      - [Summary 25]()
   
-### Chapter 6: Managing Running Processes 131
- - [Listing Processes 132]()
- - [Listing processes with ps 132]()
- - [Killing and Renicing Processes140]()
- - [Killing processes with kill and killall 140]()
-</details>
+      </details>
 
-<details>
-<summary>
-<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Part III: Becoming a Linux System Administrator 165 </a>    
-</summary>
+    - <details>
+      <summary>
+      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 2: Creating the Perfect Linux Desktop 27 </a>    
+      </summary>
 
-### Chapter 8: Learning System Administration 167
- - [Using Graphical Administration Tools 169]()
- - [Using the root User Account 174]()
- - [Exploring Administrative Commands, Configuration Files, and Log Files 178]()
- - [Administrative commands 178]()
- - 
-### Chapter 9: Installing Linux 195
- - [Understanding Cloud-Based Installations 204]()
- - [Dual booting 208]()
- - [Installing Linux to run virtually 209]()
+      - [Understanding Linux Desktop Technology 28]()
+      - [Starting with the Fedora GNOME Desktop Live image 30]()
+      - [Using the GNOME 3 Desktop 31]()
+      - [After the computer boots up 31]()
+      - [Setting up the GNOME 3 desktop 38]()
+      - [Extending the GNOME 3 desktop 39]()
+      - [Starting with desktop applications 41]()
+      - [Stopping the GNOME 3 desktop 46]()
+      - [Using the GNOME 2 Desktop 46]()
+      - [Using the Metacity window manager 48]()
+      - [Changing GNOME’s appearance 49]()
+      - [Using the GNOME panels 50]()
+      - [Adding 3D effects with AIGLX 54]()
+      - [Summary 57]()
+      - [Exercises 57]()
 
-### Chapter 11: Managing User Accounts 249
- - [Creating User Accounts 249]()
- - [Adding users with useradd 252]()
- - [Setting user defaults 255]()
- - [Setting permissions with Access Control Lists 262]()
-</details>
+      </details>
+    </details>
 
-<details>
-<summary>
-<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Part IV: Becoming a Linux Server Administrator 305 </a>    
-</summary>
+  - <details>
+    <summary>
+    <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Part II: Becoming a Linux Power User 59 </a>    
+    </summary>
 
-### Chapter 13: Understanding Server Administration 307
- - [Starting with Server Administration 308]()
- - [Step 1: Install the server 308]()
- - [Step 2: Configure the server 310]()
- - [Step 3: Start the server 311]()
- - [Step 5: Monitor the server 314]()
- - [Checking and Setting Servers 316]()
- - [Managing Remote Access with the Secure Shell Service 316]()
- - [Starting the openssh-server service 317]()
- - [Using SSH client tools 318]()
- - [Using key-based (passwordless) authentication 324]()
+    - <details>
+      <summary>
+      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 3: Using the Shell 61</a>    
+      </summary>
 
-### Chapter 14: Administering Networking 339
- - [Configuring Networking for Desktops 340]()
+      - [About Shells and Terminal Windows 62]()
+      - [Using the shell prompt 63]()
+      - [Using a Terminal window 63]()
+      - [Using virtual consoles 65]()
+      - [Choosing Your Shell 65]()
+      - [Running Commands 66]()
+      - [Understanding command syntax 67]()
+      - [Locating commands 70]()
+      - [Recalling Commands Using Command History 72]()
+      - [Command-line editing 73]()
+      - [Command-line completion 75]()
+      - [Command-line recall 76]()
+      - [Connecting and Expanding Commands 78]()
+      - [Piping between commands 78]()
+      - [Sequential commands 79]()
+      - [Background commands 79]()
+      - [Expanding commands 80]()
+      - [Expanding arithmetic expressions 80]()
+      - [Expanding variables 80]()
+      - [Using Shell Variables 81]()
+      - [Creating and using aliases 81]()
+      - [Exiting the shell 83]()
+      - [Creating Your Shell Environment 84]()
+      - [Configuring your shell 84]()
+      - [Setting your prompt 85]()
+      - [Adding environment variables 87]()
+      - [Getting Information about Commands 88]()
+      - [Summary 90]()
+      - [Exercises 90]()
 
-### Chapter 15: Starting and Stopping Services 369
- - [Stopping and Starting Services 387]()
- - [Stopping and starting SysVinit services 387]()
+      </details>
 
-### Chapter 16: Configuring a Print Server 403
- - [Printing with lp 419]()
- - [Listing status with lpstat -t 419]()
- - [Removing print jobs with lprm 419]()
- - [Configuring Print Servers 420]()
- - [Configuring a shared CUPS printer 420]()
+    - <details>
+      <summary>
+      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 4: Moving Around the Filesystem 93</a>    
+      </summary>
 
-### Chapter 17: Configuring a Web Server 427
- - [Getting and Installing Your Web Server 428]()
-</details>
+      - [Using Basic Filesystem Commands 96]()
+      - [Using Metacharacters and Operators 98]()
+      - [Using file-matching metacharacters 98]()
+      - [Using file-redirection metacharacters 99]()
+      - [Using brace expansion characters 101]()
+      - [Listing Files and Directories 101]()
+      - [Understanding File Permissions and Ownership 105]()
+      - [Changing permissions with chmod (numbers) 106]()
+      - [Changing permissions with chmod (letters) 107]()
+      - [Setting default file permission with umask 108]()
+      - [Changing file ownership 109]()
+      - [Moving, Copying, and Removing Files 109]()
+      - [Summary 111]()
+      - [Exercises 111]()
 
-<details>
-<summary>
-<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Part VI: Engaging with Cloud Computing 691 </a>    
-</summary>
+      </details>
 
-### Chapter 26: Shifting to Clouds and Containers 693
- - [Starting and stopping containers 701]()
+    - <details>
+      <summary>
+      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 5: Working with Text Files 113</a>    
+      </summary>
 
-### Chapter 27: Using Linux for Cloud Computing 709
- - [Overview of Linux and Cloud Computing 710]()
- - [Trying Basic Cloud Technology 713]()
- - [Setting Up a Small Cloud 714]()
- - [Creating virtual machines 720]()
- - [Managing virtual machines 724]()
+      - [Editing Files with vim and vi 113]()
+      - [Starting with vi 115]()
+      - [Skipping around in the file 119]()
+      - [Searching for text 119]()
+      - [Using ex mode 120]()
+      - [Learning more about vi and vim 120]()
+      - [Finding Files 120]()
+      - [Using locate to find files by name 121]()
+      - [Searching for files with find 122]()
+      - [Searching in files with grep 128]()
+      - [Summary 129]()
+      - [Exercises 129]()
+      - []()
+      </details>
 
-### Chapter 28: Deploying Linux to the Cloud 729
- - [Getting Linux to Run in a Cloud 729]()
- - [Using Amazon EC2 to Deploy Cloud Images 744]()
-</details>
+    - <details>
+      <summary>
+      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 6: Managing Running Processes 131</a>    
+      </summary>
+
+      - [Understanding Processes 131]()
+      - [Listing Processes 132]()
+      - [Listing processes with ps 132]()
+      - [Listing and changing processes with top 134]()
+      - [Listing processes with System Monitor 136]()
+      - [Managing Background and Foreground Processes 137]() 
+      - [Starting background processes 138]()
+      - [Using foreground and background commands 139]()
+      - [Killing and Renicing Processes140]()
+      - [Killing processes with kill and killall 140]()
+      - [Setting processor priority with nice and renice 142]()
+      - [Limiting Processes with cgroups 143]()
+      - [Summary 144]()
+      - [Exercises 145]()
+
+      </details>
+
+    - <details>
+      <summary>
+      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 7: Writing Simple Shell Scripts 147</a>    
+      </summary>
+      
+      - [Understanding Shell Scripts 147]()
+      - [Executing and debugging shell scripts 148]()
+      - [Understanding shell variables 149]()
+      - [Performing arithmetic in shell scripts 152]()
+      - [Using programming constructs in shell scripts 153]()
+      - [Trying some useful text manipulation programs 159]()
+      - [Using simple shell scripts 161]()
+      - [Summary 163]()
+      - [Exercises 163]()
+      - []()
+
+      </details>
+
+  - <details>
+    <summary>
+    <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Part III: Becoming a Linux System Administrator 165</a>    
+    </summary>
+
+    - <details>
+      <summary>
+      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 8: Learning System Administration 167</a>    
+      </summary>
+
+      - [Understanding System Administration 167]()
+      - [Using Graphical Administration Tools 169]()
+      - [Using the root User Account 174]()
+      - [Exploring Administrative Commands, Configuration Files, and Log Files 178]()
+      - [Administrative commands 178]()
+      - [Administrative configuration files 179]()
+      - [Using Other Administrative Accounts 185]()
+      - [Checking and Configuring Hardware 186]()
+      - [Checking your hardware 187]()
+      - [Managing removable hardware 189]()
+      - [Working with loadable modules 191]()
+      - [Summary 193]()
+      - [Exercises 193]()
+
+      </details>
+
+    - <details>
+      <summary>
+      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 9: Installing Linux 195</a>    
+      </summary>
+
+      - [Choosing a Computer 196]()
+      - [Installing Fedora from Live Media 198]()
+      - [Installing Red Hat Enterprise Linux from Installation Media 201]()
+      - [Understanding Cloud-Based Installations 204]()
+      - [Installing Linux in the Enterprise 205]()
+      - [Exploring Common Installation Topics 207]()
+      - [Upgrading or installing from scratch 207]()
+      - [Dual booting 208]()
+      - [Installing Linux to run virtually 209]()
+      - [Using installation boot options 210]()
+      - [Using specialized storage 213]()
+      - [Partitioning hard drives 214]()
+      - [Using the GRUB boot loader 217]()
+      - [Summary 219]()
+      - [Exercises 219]()
+
+      </details>
+
+    - <details>
+      <summary>
+      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 10: Getting and Managing Software 221</a>    
+      </summary>
+
+      - [Managing Software on the Desktop 221]()
+      - [Going Beyond the Software Window 223]()
+      - [Understanding Linux RPM and DEB Software Packaging 224]()
+      - [Understanding DEB packaging 225]()
+      - [Understanding RPM packaging 226]()
+      - [Managing RPM Packages with YUM 229]()
+      - [Transitioning from yum to dnf 229]()
+      - [Understanding how yum works 229]()
+      - [Using YUM with third-party software repositories 233]()
+      - [Managing software with the yum command 233]()
+      - [Installing, Querying, and Verifying Software with the rpm Command 241]()
+      - [Installing and removing packages with rpm 241]()
+      - [Querying rpm information 242]()
+      - [Verifying RPM packages 244]()
+      - [Managing Software in the Enterprise 245]()
+      - [Summary 246]()
+      - [Exercises 247]()
+
+      </details>
+
+    - <details>
+      <summary>
+      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 11: Managing User Accounts 249</a>    
+      </summary>
+
+      - [Creating User Accounts 249]()
+      - [Adding users with useradd 252]()
+      - [Setting user defaults 255]()
+      - [Modifying users with usermod 257]()
+      - [Deleting users with userdel 258]()
+      - [Understanding Group Accounts 259]()
+      - [Using group accounts 259]()
+      - [Creating group accounts 260]()
+      - [Managing Users in the Enterprise 261]()
+      - [Setting permissions with Access Control Lists 262]()
+      - [Centralizing User Accounts 269]()
+      - [Summary 270]()
+      - [Exercises 270]()
+
+      </details>
+
+    - <details>
+      <summary>
+      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 12: Managing Disks and Filesystems 273</a>    
+      </summary>
+
+      - [Understanding Disk Storage 273]()
+      - [Partitioning Hard Disks 275]()
+      - [Understanding partition tables 275]()
+      - [Viewing disk partitions 276]()
+      - [Creating a single-partition disk 277]()
+      - [Creating a multiple-partition disk 281]()
+      - [Using Logical Volume Manager Partitions 285]()
+      - [Checking an existing LVM 286]()
+      - [Creating LVM logical volumes 289]()
+      - [Growing LVM logical volumes 290]()
+      - [Mounting Filesystems 291]()
+      - [Supported filesystems 291]()
+      - [Enabling swap areas 293]()
+      - [Disabling swap area 294]()
+      - [Using the fstab file to define mountable file systems 295]()
+      - [Using the mount command to mount file systems 297]()
+      - [Mounting a disk image in loopback 298]()
+      - [Using the umount command 299]()
+      - [Using the mkfs Command to Create a Filesystem 300]()
+      - [Managing Storage with Cockpit 301]()
+      - [Summary 303]()
+      - [Exercises 303]()
+
+      </details>
+
+    </details>
+
 
   
 </details>
