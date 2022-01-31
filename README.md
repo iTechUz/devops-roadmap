@@ -83,12 +83,16 @@
     <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Part I</a>    
     </summary>
 
-    #### :blush: Getting Started 1 
+    ### :blush: Getting Started 1 
 
     - <details>
       <summary>
-      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 1: Starting with Linux 3 </a>    
+      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 1  </a>  
+
+
       </summary>
+
+      ##### :innocent: Starting with Linux 3
 
       - [Understanding What Linux Is 4]()
       - [Understanding How Linux Differs from Other Operating Systems 6]()
