@@ -241,7 +241,7 @@
       <summary>
       <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 7: Writing Simple Shell Scripts 147</a>    
       </summary>
-      
+
       - [Understanding Shell Scripts 147]()
       - [Executing and debugging shell scripts 148]()
       - [Understanding shell variables 149]()
@@ -382,6 +382,32 @@
 
     </details>
 
+  - <details>
+    <summary>
+    <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Part IV: Becoming a Linux Server Administrator 305</a>    
+    </summary>
 
-  
+    </details>
+
+  - <details>
+    <summary>
+    <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Part V: Learning Linux Security Techniques 563</a>    
+    </summary>
+
+    </details>
+
+  - <details>
+    <summary>
+    <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Part VI: Engaging with Cloud Computing 691</a>    
+    </summary>
+
+    </details>
+
+  - <details>
+    <summary>
+    <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Part VII: Appendixes 785</a>    
+    </summary>
+
+    </details>
+
 </details>
