@@ -80,8 +80,10 @@
 
   - <details>
     <summary>
-    <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Part I: Getting Started 1 </a>    
+    <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Part I</a>    
     </summary>
+
+    #### :blush: Getting Started 1 
 
     - <details>
       <summary>
