@@ -889,6 +889,6 @@
       - [Appendix A: Media 787]()
       - [Appendix B: Exercise Answers 797]()
       - [Index 863]()
-  </details>
+    </details>
 
 </details>
