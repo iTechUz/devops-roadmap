@@ -773,32 +773,106 @@
       <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 26</a>    
       </summary>
 
-      ##### :smiley:
+      ##### :smiley:Shifting to Clouds and Containers 693
 
-      - []()
-      - []()
-      - []()
-      - []()
-      - []()
-      - []()
-      - []()
-      - []()
-      - []()
-      - []()
-      - []()
-      - []()
-      - []()
-      - []()
-      - []()
-      - []()
-      - []()
-      - []()
-      - []()
-      - []()
-      - []()
-      - []()
-      - []()
-      - []()
+      - [Understanding Linux Containers 694]()
+      - [Namespaces 695]()
+      - [Container registries 695]()
+      - [Base images and layers 696]()
+      - [Starting with Linux Containers 697]()
+      - [Pulling and running containers 697]()
+      - [Starting and stopping containers 701]()
+      - [Building a container image 702]()
+      - [Tagging and pushing an image to a registry 705]()
+      - [Using containers in the enterprise 706]()
+      - [Summary 706]()
+      - [Exercises 707]()
+
+      </details>
+
+    - <details>
+      <summary>
+      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 27</a>    
+      </summary>
+
+      ##### :smiley:Using Linux for Cloud Computing 709
+
+      - [Overview of Linux and Cloud Computing 710]()
+      - [Trying Basic Cloud Technology 713]()
+      - [Setting Up a Small Cloud 714]()
+      - [Configuring hypervisors 715]()
+      - [Configuring storage 718]()
+      - [Creating virtual machines 720]()
+      - [Managing virtual machines 724]()
+      - [Migrating virtual machines 725]()
+      - [Summary 727]()
+      - [Exercises 727]()
+
+      </details>
+
+    - <details>
+      <summary>
+      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 28</a>    
+      </summary>
+
+      ##### :smiley:Deploying Linux to the Cloud 729
+
+      - [Getting Linux to Run in a Cloud 729]()
+      - [Creating Linux Images for Clouds 731]()
+      - [Configuring and running a cloud-init cloud instance 731]()
+      - [Investigating the cloud instance 733]()
+      - [Cloning the cloud instance 734]()
+      - [Using cloud-init in enterprise computing 738]()
+      - [Using OpenStack to Deploy Cloud Images 739]()
+      - [Starting from the OpenStack Dashboard 739]()
+      - [Using Amazon EC2 to Deploy Cloud Images 744]()
+      - [Summary 746]()
+      - [Exercises 746]()
+
+      </details>
+
+    - <details>
+      <summary>
+      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 29</a>    
+      </summary>
+
+      ##### :smiley:Automating Apps and Infrastructure with Ansible 749
+
+      - [Understanding Ansible 750]()
+      - [Exploring Ansible Components 751]()
+      - [Inventories 751]()
+      - [Playbooks 752]()
+      - [Stepping Through an Ansible Deployment 753]()
+      - [Installing Ansible 756]()
+      - [Running Ad-Hoc Ansible Commands 760]()
+      - [Automating Tasks with Ansible Tower Automation Framework 762]()
+      - [Summary 763]()
+      - [Exercises 763]()
+
+      </details>
+
+    - <details>
+      <summary>
+      <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Chapter 30</a>    
+      </summary>
+
+      ##### :smiley:Deploying Applications as Containers with Kubernetes 765
+
+
+      - [Understanding Kubernetes 766]()
+      - [Kubernetes masters 766]()
+      - [Kubernetes workers 767]()
+      - [Kubernetes applications 767]()
+      - [Kubernetes interfaces 768]()
+      - [Trying Kubernetes 768]()
+      - [Getting Kubernetes 769]()
+      - [Running the Kubernetes Basics tutorial 771]()
+      - [Enterprise-Quality Kubernetes with OpenShift 782]()
+      - [Summary 783]()
+      - [Exercises 783]()
+
+      </details>
+
 
     </details>
 
@@ -812,6 +886,9 @@
 
     ### :blush: Appendixes 785
 
-    </details>
+      - [Appendix A: Media 787]()
+      - [Appendix B: Exercise Answers 797]()
+      - [Index 863]()
+  </details>
 
 </details>
